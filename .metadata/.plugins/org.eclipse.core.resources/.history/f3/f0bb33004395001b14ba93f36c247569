@@ -1,0 +1,12 @@
+<archetype>
+  <id>payengineer-custom-web-ui-archetype</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+    <source>src/main/resources/html/index.html</source>
+    <source>src/main/resources/css/default-css.css</source>
+    <source>src/main/resources/js/javaScripts.js</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>

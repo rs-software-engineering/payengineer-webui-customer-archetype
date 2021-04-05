@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.payengineer.webui</groupId>
   <artifactId>payengineer-custom-web-ui-archetype</artifactId>
-  <version>1.0.00.00</version>
+  <version>1.0.00.01</version>
   <name>Archetype - webui-customer-archetype</name>
   <url>http://maven.apache.org</url>
 </project>

@@ -1,4 +1,4 @@
-package $com.payengineer.webui.webui_customer_archetype;
+package ${groupId}.${artifactId}.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

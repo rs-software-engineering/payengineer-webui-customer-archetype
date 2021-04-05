@@ -1,4 +1,4 @@
-package $com.payengineer.webui.webui_customer_archetype;
+package $groupId.$artifactId;
 
 /**
  * Hello world!

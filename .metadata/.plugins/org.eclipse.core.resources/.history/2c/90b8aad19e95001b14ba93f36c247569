@@ -1,0 +1,6 @@
+/**
+ * Dummy Java Script file. 
+ */
+function helloWorldMessage(){
+	alert ("Hello World !!!");
+}
